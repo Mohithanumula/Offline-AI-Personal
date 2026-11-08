@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1774722622065",
+      "name": "Mohith Kumar Anumula",
+      "email": "mohith.anumula04@gmail.com",
+      "password": "$2b$10$xsovhxkbTDJ2oNV16EJ5veE2ypp/h.WRxVGSEdV.3202yd8ZhuX42",
+      "createdAt": "2026-03-28T18:30:22.065Z"
+    },
+    {
+      "id": "1775186813868",
+      "name": "Mohith",
+      "email": "anumula04@gmail.com",
+      "password": "$2b$10$tsvvhXHsI9oryxt4XoMk7eV343pajcGeOJU8KZtF7E5cqG8a8wGT2",
+      "createdAt": "2026-04-03T03:26:53.868Z"
+    },
+    {
+      "id": "1775257872570",
+      "name": "1",
+      "email": "a@gmail.com",
+      "password": "$2b$10$uBzixzWUCDX1.47nDP78M.ouu9OrAd7Vt4ALNC6jAQUxZyWEZcUbu",
+      "createdAt": "2026-04-03T23:11:12.570Z"
+    }
+  ]
+}
